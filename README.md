@@ -46,8 +46,8 @@ Every exercise highlights some aspect of using Python for programming. This prac
 
 ## Ex 08 ##
 
-- format method ignores extra parameters; complains if given less parameters
-- format method does require explicit string conversion for input parameters
+- format() ignores extra parameters; complains if given less parameters
+- format() does require explicit string conversion for input parameters
 
 ## Ex 09 ##
 
@@ -65,4 +65,84 @@ Every exercise highlights some aspect of using Python for programming. This prac
     * '\f' : Form feed
     * '\t' : Horizontal tab
     * '\v' : Vertical Tab
+
+## Ex 11 ##
+
+- Use input() as an interactive way to get input
+- input() also takes prompt message
+
+## Ex 12 ##
+
+- pydoc is great for reading documentation
+
+## Ex 13 ##
+
+- Multiple variables are initialized by unpacking an iterable
+- Command-line arguments are another way of input
+
+## Ex 14 ##
+
+- f-strings can also be created from multiline strings!
+
+## Ex 15 ##
+
+- open() creates a stream object
+- Remember to call close() method for stream objects once done
+
+## Ex 16 ##
+
+- mode flag for open() dictates stream behaviour
+- '+' modifier for mode flag is interesting
+
+## Ex 17 ##
+
+- Use ';' to have multiple statement in single line
+- Python can automatically take care of closing files at times
+
+## Ex 18 ##
+
+- Function can be given positional or keyword arguments
+- Structured programming in Python happens with indentation
+- Unicode letters can be used for identifiers, but best to avoid it
+
+## Ex 19 ##
+
+- Functions can take expressions as inputs
+
+## Ex 20 ##
+
+- seek() has a whence parameter, which determines start position for seek
+- readline() doesn't strip newline but input() does
+
+## Ex 21 ##
+
+- 'return' keyword allows evaluation of a function functional!
+
+## Ex 22 ##
+
+N/A
+
+## Ex 23 ##
+
+- Decode bytes, encode strings
+
+## Ex 24 ##
+
+N/A
+
+## Ex 25 ##
+
+- help() and pydoc are useful
+
+## Ex 26 ##
+
+N/A
+
+## Ex 27 ##
+
+N/A
+
+## Ex 28 ##
+
+N/A
 
