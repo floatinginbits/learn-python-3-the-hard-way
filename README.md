@@ -182,3 +182,13 @@ N/A
 
 N/A
 
+## Ex 38 ##
+
+- A.x(y) is syntactic sugar for x(A,y)
+- Method is a function where first parameter is fixed!
+- List works as stack with method like pop()
+
+## Ex 39 ##
+
+- Dictionary for unordered data, list for ordered data
+
