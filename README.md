@@ -146,3 +146,39 @@ N/A
 
 N/A
 
+## Ex 29 ##
+
+- Remember not to nest too deep with if
+
+## Ex 30 ##
+
+- Else is not necessary; it works as a catchall scenario
+
+## Ex 31 ##
+
+- Combining interactive input with conditionals make powerful programs
+
+## Ex 32 ##
+
+- For loops have a variable declaration without explicit assignment!
+
+## Ex 33 ##
+
+- While loops can be rewritten as for loops
+
+## Ex 34 ##
+
+N/A
+
+## Ex 35 ##
+
+- Text based games look fun!
+
+## Ex 36 ##
+
+N/A
+
+## Ex 37 ##
+
+N/A
+
